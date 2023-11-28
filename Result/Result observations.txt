@@ -1,0 +1,7 @@
+Observations on comparing the statistics-
+
+1. I have observed that the Population mean and maximum are greater than the sample mean and maximum values.
+
+2. I observed that the population percentile is greater than the sample percentile value.
+
+3. Also there seems to be only a slight difference between population and bootstrap statistics.
